@@ -1,0 +1,3 @@
+## Portfolio
+
+This project was built in order to showcase my current and upcoming portfolio as I build more and become able to showcase my code. It currently showcases my first project done during the coding bootcamp, and my github repo. You can use the links in the navigation bar to jump to my About Me or Portfolio sections of the page. If you click the website or github logo images, you will be sent to my module 1 project or my github repository. 
