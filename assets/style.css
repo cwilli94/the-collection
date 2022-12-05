@@ -77,9 +77,22 @@ section{
 
 .section-1img{
     width: 100%;
+
 }
 
 .section-2{
     width: 40%;
     display: inline-block;
+}
+
+@media screen and (max-width: 992px) {
+
+.section-1{
+    width: 100%;
+}
+
+.section-2{
+    width: 100%;
+}
+
 }
